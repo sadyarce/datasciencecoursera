@@ -1,6 +1,6 @@
-datasciencecoursera
+HelloWorld
 ===================
 
-Data Scientist's Project for week 3
+## This is a markdown file
 
 
